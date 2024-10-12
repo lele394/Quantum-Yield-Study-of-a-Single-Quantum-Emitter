@@ -6,4 +6,4 @@ Simulations have been done using FDTD software R-Soft.
 
 Data is not present in the repo due to the size.
 
-### Report is available [here](/report/AQO-report-leo_bechet.pdf)
+### Report is available [here](./report/AQO-report-leo_bechet.pdf)
