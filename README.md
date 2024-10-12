@@ -5,3 +5,5 @@ This repo contains the code and report for the study of a single quantum emitter
 Simulations have been done using FDTD software R-Soft.
 
 Data is not present in the repo due to the size.
+
+### Report is available [here](/report/AQO-report-leo_bechet.pdf)
